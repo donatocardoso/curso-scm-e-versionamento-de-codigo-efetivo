@@ -1,5 +1,7 @@
 # SCM e Versionamento de Código efetivo: Git, Gitlab e Gitflow
 
+Todos os direitos deste documento reservados a [Rodrigo Martinez da Rocha](https://www.linkedin.com/in/rodrigomartinezrocha/).
+
 ## .1 Problemas
 
 ![scm-problema.png](./images/scm-problema.png)
